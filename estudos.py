@@ -227,3 +227,5 @@
   #      return 10
    # return N * FATORI(N+1)
 #print (FATORI(7))
+
+#carnaval foi estudando
